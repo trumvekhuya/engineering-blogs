@@ -91,7 +91,7 @@
 * Cloudflare https://blog.cloudflare.com/
 * CockroachDB https://www.cockroachlabs.com/blog/
 * Code Better http://codebetter.com/
-* Codelitt https://www.codelitt.com/blog/ ---------////////
+* Codelitt https://www.codelitt.com/blog/
 * Codemancers https://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
@@ -121,7 +121,7 @@
 * Docker https://blog.docker.com/category/engineering/
 * DoorDash https://blog.doordash.com/tagged/engineering
 * Drivy https://drivy.engineering/
-* Dropbox https://blogs.dropbox.com/tech/ .  -------------////////////
+* Dropbox https://blogs.dropbox.com/tech/ .
 
 #### E companies
 * Ebay http://www.ebaytechblog.com/
@@ -196,7 +196,7 @@
 * Hootsuite http://code.hootsuite.com/
 * Hostinger https://www.hostinger.com/blog/engineering/
 * Housing.com https://medium.com/engineering-housing
-* HubSpot http://product.hubspot.com/blog/topic/engineering --------------///////
+* HubSpot http://product.hubspot.com/blog/topic/engineering
 
 #### I companies
 * IBM developerWorks https://developer.ibm.com/dwblog/
@@ -212,7 +212,7 @@
 * Intent Media http://intentmedia.com/blog/
 * Intercom https://engineering.intercom.io/
 * Intuit https://quickbooks-engineering.intuit.com/
-* InVision http://engineering.invisionapp.com/
+* InVision http://engineering.invisionapp.com/    ============================================//////////////
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/category/ocaml/
